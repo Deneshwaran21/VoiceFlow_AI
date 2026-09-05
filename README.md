@@ -167,9 +167,3 @@ pytest tests/test_backend.py
 ```
 
 ---
-
-## 💼 Resume Description Points
-
-- **Engineered VoiceFlow AI**, a full-stack real-time voice assistant utilizing **FastAPI**, **Next.js**, **Whisper STT**, and **LLM Intent Classification**.
-- **Designed structured action extraction pipeline** parsing natural speech into JSON schemas with date resolution and high/medium/low priority tags.
-- **Built persistent storage & dashboard architecture** with SQLAlchemy, SQLite, and filterable Next.js dashboard UI.
